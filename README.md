@@ -5,4 +5,4 @@
 We found that many young adults transitioning into college are interested in getting into fashion. However, they do not know where to start.
 
 ## Proposed Solution
-Hangin' is an app that uses Machine Learning to generate fashionable outfits from clothes in our wardrobe. Users may also shop for brand new clothes on this app.
+Hangin' is an app that utilizes machine learning to generate fashionable outfits. Users may use their phone camera to scan a piece of clothing into our virtual wardrobe, or they may shop for brand new clothes on this app.
